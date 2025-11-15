@@ -1,0 +1,4 @@
+Red:e61e25
+Orange:ee8321
+Yellow:fbcf07
+Purple:3d2e84
